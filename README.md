@@ -6,7 +6,7 @@ Equity derivatives trader turned crypto product manager. I've spent my career pr
 
 These days I use AI to turn my own trading ideas into tools that actually run. I don't write production code — I direct coding agents, and everything below was built that way.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/CSI300_ETH) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
 ---
 

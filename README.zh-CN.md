@@ -6,7 +6,7 @@
 
 现在我在用 AI 把自己的交易想法做成真正能跑的工具。我不是科班工程师，写不了生产代码，靠指挥 coding agent 落地，下面这些项目都是这样做出来的。
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/CSI300_ETH) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
 ---
 
