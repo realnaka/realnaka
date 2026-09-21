@@ -18,9 +18,9 @@ The ones that get used the most.
 
 📚 [**OpenOrder**](https://github.com/realnaka/OpenOrder) - Turns every agent conversation into a permanent, compounding investment-research wiki. Inspired by Karpathy's LLM Wiki
 
-🖥️ [**edgex-cli**](https://github.com/realnaka/edgex-cli) - CLI for EdgeX perpetual and equity contracts; every command supports `--json` so an LLM can consume it directly
+🔌 [**trading-agent-mcp**](https://github.com/realnaka/trading-agent-mcp) - MCP server for multi-market financial research: IDE-driven bull / bear debate at zero LLM cost
 
-🔌 [**edgex-mcp**](https://github.com/realnaka/edgex-mcp) - MCP server that hands an AI agent EdgeX market data, account and order tools
+✅ [**claim-verification**](https://github.com/realnaka/claim-verification) - Breaks tweets, news, research notes and other AIs' conclusions into atomic claims, checks them against primary sources, and labels what survives
 
 🌐 [**stock-data-fetch**](https://github.com/realnaka/stock-data-fetch) - Vendor-neutral market-data skill with automatic failover: US stocks, A-shares, HK, crypto and commodities
 

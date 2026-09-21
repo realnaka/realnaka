@@ -18,9 +18,9 @@
 
 📚 [**OpenOrder**](https://github.com/realnaka/OpenOrder) - 把每一次 agent 对话变成永久沉淀、跨 session 复利的投研 Wiki，灵感来自 Karpathy 的 LLM Wiki
 
-🖥️ [**edgex-cli**](https://github.com/realnaka/edgex-cli) - EdgeX 永续与美股合约的 CLI，所有命令都支持 `--json`，方便大模型直接调用
+🔌 [**trading-agent-mcp**](https://github.com/realnaka/trading-agent-mcp) - 多市场金融研究的 MCP Server：在 IDE 里跑多空辩论，零 LLM 调用成本
 
-🔌 [**edgex-mcp**](https://github.com/realnaka/edgex-mcp) - 把 EdgeX 的行情、账户与下单能力交给 AI agent 的 MCP Server
+✅ [**claim-verification**](https://github.com/realnaka/claim-verification) - 把推文、新闻、研报、其他 AI 的结论拆成原子声明，逐条回到一手源验证，再打标签
 
 🌐 [**stock-data-fetch**](https://github.com/realnaka/stock-data-fetch) - 多市场行情 skill，美股 / A 股 / 港股 / 加密 / 商品全覆盖，多数据源自动切换
 
