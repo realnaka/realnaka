@@ -2,11 +2,9 @@
 
 [English](README.md) · **中文**
 
-我的职业生涯从传统金融开始：在国泰君安（香港）和申万宏源（香港）做股票衍生品的定价与交易，在中粮资本（香港）做基金经理、管理跨境股票与固定收益基金，在中银（香港）做信用风险与压力测试模型。之后转到加密交易所——Bybit、OKX、EdgeX——做结构化产品、组合保证金、永续合约风控、预测市场，以及美股永续与 RWA 合约。
+衍生品交易员出身，后来做加密交易所的产品经理。职业生涯一直在跟复杂衍生品和交易打交道——互换、票据、期权、结构化产品的定价与交易，覆盖股票、利率与外汇；之后转到加密行业，做结构化产品、组合保证金、永续合约风控、预测市场，以及美股永续与 RWA 合约。
 
-我不是科班工程师，写不了生产代码。我用 coding agent 把自己的投研和产品想法变成真正能跑的工具，下面这些项目都是这样做出来、并且公开维护的。
-
-🎓 清华–港中大金融 MBA · 港中大金融硕士 · CFA · FRM
+现在我在用 AI 把自己的交易想法做成真正能跑的工具。我不是科班工程师，写不了生产代码，靠指挥 coding agent 落地，下面这些项目都是这样做出来的。
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/CSI300_ETH) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
@@ -91,9 +89,3 @@
 📖 [**youtube-to-markdown**](https://github.com/realnaka/youtube-to-markdown) - 把 YouTube 视频变成通顺、带翻译的 Markdown 文稿，人工字幕、自动字幕或 Whisper 都能处理
 
 🎨 [**frontend-slides-to-pdf**](https://github.com/realnaka/frontend-slides-to-pdf)（fork）- 把前端原生 HTML 幻灯片转成稳定的高分辨率 PDF 与长图
-
----
-
-## 📌 背景
-
-先做传统金融——股票衍生品交易、基金管理与风险模型——再到加密交易所（Bybit、OKX、EdgeX）。现在以 build in public 的方式做 AI × 投研工具。

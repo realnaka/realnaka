@@ -2,11 +2,9 @@
 
 **English** · [中文](README.zh-CN.md)
 
-My career started in traditional finance: designing, pricing and trading equity derivatives at Guotai Junan (HK) and Shenwan Hongyuan (HK), running cross-border equity and fixed-income funds as a VP / fund manager at COFCO Capital (HK), and building credit-risk and stress-testing models at Bank of China (HK). Then I moved to crypto exchanges — Bybit, OKX and EdgeX — where I built structured products, portfolio margin, perpetual-futures risk engines, prediction markets, and US-equity / RWA contracts.
+Equity derivatives trader turned crypto product manager. I've spent my career pricing and trading complex derivatives — swaps, notes, options and structured products on equities, rates and FX — and then moved into crypto, where I built structured products, portfolio margin, perpetual-futures risk engines, prediction markets and US-equity / RWA contracts.
 
-I'm not a trained engineer and I don't write production code. I direct coding agents to turn my research and product ideas into tools that actually run — everything below was built that way, in the open.
-
-🎓 Tsinghua–CUHK Finance MBA · CUHK MSc in Finance · CFA · FRM
+These days I use AI to turn my own trading ideas into tools that actually run. I don't write production code — I direct coding agents, and everything below was built that way.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/CSI300_ETH) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
@@ -91,9 +89,3 @@ Turning long-form content and ideas into formats that survive the trip.
 📖 [**youtube-to-markdown**](https://github.com/realnaka/youtube-to-markdown) - YouTube videos turned into clean, translated Markdown notes, from human subs, auto subs or Whisper
 
 🎨 [**frontend-slides-to-pdf**](https://github.com/realnaka/frontend-slides-to-pdf) (fork) - Turns frontend-native HTML slide decks into stable, high-resolution PDFs and stitched preview images
-
----
-
-## 📌 Background
-
-Traditional finance first — equity derivatives trading, fund management and risk models — then crypto exchanges (Bybit, OKX, EdgeX). Now building AI × investment-research tooling in the open.
