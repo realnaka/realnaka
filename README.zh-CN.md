@@ -8,11 +8,19 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
+> 📈 **正在 Arcus 上实盘运行**
+>
+> [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) —— 一条美元中性的记忆体篮子价差，赚的是**持仓时间（OI-time）**而不是成交量；配杠杆排班、止损阶梯、ADL 复位，以及支撑这套形状的研究和估分模型。
+>
+> **想照着跑？从这里开始 → [app.arcus.xyz/ref/SKHYGO](https://app.arcus.xyz/ref/SKHYGO)**（邀请链接，不影响你的费率）
+
 ---
 
 ## ⭐ 精选项目
 
 用得最多的几个。
+
+📈 [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) - 唯一在跑真钱的那个：赚**持仓时间**而不是成交量的美元中性篮子，含风控护栏、研究与估分模型
 
 🌀 [**alphaloop**](https://github.com/realnaka/alphaloop)（<!--stars:alphaloop-->20<!--/stars--> stars）- 人机投研闭环：人出方向，agent 负责找证据、筛标的、记账本，最后拍板的仍然是人
 

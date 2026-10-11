@@ -8,11 +8,19 @@ These days I use AI to turn my own trading ideas into tools that actually run. I
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
+> 📈 **Running live on Arcus**
+>
+> [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) — a dollar-neutral memory-basket spread that farms the Arcus point program on **open interest** instead of volume, with its leverage schedule, stop ladder and ADL reset, plus the research and the OI-time scoring model behind it.
+>
+> **Want to trade it? Start here → [app.arcus.xyz/ref/SKHYGO](https://app.arcus.xyz/ref/SKHYGO)** (referral link — your fee tier is unchanged)
+
 ---
 
 ## ⭐ Featured projects
 
 The ones that get used the most.
+
+📈 [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) - The one running live money: a dollar-neutral basket that earns **open interest** instead of volume — plus the research, the risk rails and the points model that produced it
 
 🌀 [**alphaloop**](https://github.com/realnaka/alphaloop) (<!--stars:alphaloop-->20<!--/stars--> stars) - A human-agent investment research loop: you set the direction, the agent gathers the evidence, screens names and keeps the books — the human keeps the call
 
