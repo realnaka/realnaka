@@ -76,6 +76,8 @@
 
 🎯 [**okr-agent-skill**](https://github.com/realnaka/okr-agent-skill) - 把季度目标拆成 agent 能直接执行的任务
 
+⚖️ [**arb-monitor**](https://github.com/realnaka/arb-monitor-public) - 监控优先的套利引擎：链上股票代币 × 永续合约，两腿都按真实成交均价定价，坏报价一律拒绝成交
+
 ---
 
 ## 🛠️ 交易所工具链

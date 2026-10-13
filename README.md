@@ -76,6 +76,8 @@ Everything that wakes up on a schedule and tells me something.
 
 🎯 [**okr-agent-skill**](https://github.com/realnaka/okr-agent-skill) - Turns quarterly objectives into agent-executable tasks
 
+⚖️ [**arb-monitor**](https://github.com/realnaka/arb-monitor-public) - A monitoring-first arbitrage engine for on-chain equity tokens vs. perpetual futures: both legs priced by real VWAP at size, with a data-quality gate that refuses to trade on a bad quote
+
 ---
 
 ## 🛠️ Exchange tooling
