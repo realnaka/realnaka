@@ -20,7 +20,9 @@ These days I use AI to turn my own trading ideas into tools that actually run. I
 
 The ones that get used the most.
 
-📈 [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) - The one running live money: a dollar-neutral basket that earns **open interest** instead of volume — plus the research, the risk rails and the points model that produced it
+⚖️ [**onchain-arbitrage**](https://github.com/realnaka/onchain-arbitrage) - The engine behind my own live book: on-chain equity tokens against perpetual futures, both legs priced by real VWAP at size, behind a data-quality gate that refuses to trade on a bad quote
+
+📈 [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) - Running live money on Arcus: a dollar-neutral basket that earns **open interest** instead of volume — plus the research, the risk rails and the points model that produced it
 
 🌀 [**alphaloop**](https://github.com/realnaka/alphaloop) (<!--stars:alphaloop-->20<!--/stars--> stars) - A human-agent investment research loop: you set the direction, the agent gathers the evidence, screens names and keeps the books — the human keeps the call
 
@@ -75,8 +77,6 @@ Everything that wakes up on a schedule and tells me something.
 📝 [**captain-trading-booking**](https://github.com/realnaka/captain-trading-booking) - Turns trade screenshots or pasted text into structured records in Lark Bitable / Excel
 
 🎯 [**okr-agent-skill**](https://github.com/realnaka/okr-agent-skill) - Turns quarterly objectives into agent-executable tasks
-
-⚖️ [**arb-monitor**](https://github.com/realnaka/arb-monitor-public) - A monitoring-first arbitrage engine for on-chain equity tokens vs. perpetual futures: both legs priced by real VWAP at size, with a data-quality gate that refuses to trade on a bad quote
 
 ---
 

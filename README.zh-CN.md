@@ -20,7 +20,9 @@
 
 用得最多的几个。
 
-📈 [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) - 唯一在跑真钱的那个：赚**持仓时间**而不是成交量的美元中性篮子，含风控护栏、研究与估分模型
+⚖️ [**onchain-arbitrage**](https://github.com/realnaka/onchain-arbitrage) - 我自己实盘在用的那套引擎：链上股票代币 × 永续合约，两腿都按真实成交均价定价，坏报价一律拒绝成交
+
+📈 [**arcus-v2-farmer**](https://github.com/realnaka/arcus-v2-farmer) - 在 Arcus 上跑真钱的那个：赚**持仓时间**而不是成交量的美元中性篮子，含风控护栏、研究与估分模型
 
 🌀 [**alphaloop**](https://github.com/realnaka/alphaloop)（<!--stars:alphaloop-->20<!--/stars--> stars）- 人机投研闭环：人出方向，agent 负责找证据、筛标的、记账本，最后拍板的仍然是人
 
@@ -75,8 +77,6 @@
 📝 [**captain-trading-booking**](https://github.com/realnaka/captain-trading-booking) - 把交易截图或粘贴文字变成飞书多维表格 / Excel 里的结构化记录
 
 🎯 [**okr-agent-skill**](https://github.com/realnaka/okr-agent-skill) - 把季度目标拆成 agent 能直接执行的任务
-
-⚖️ [**arb-monitor**](https://github.com/realnaka/arb-monitor-public) - 监控优先的套利引擎：链上股票代币 × 永续合约，两腿都按真实成交均价定价，坏报价一律拒绝成交
 
 ---
 
