@@ -6,7 +6,7 @@
 
 现在我在用 AI 把自己的交易想法做成真正能跑的工具。我不是科班工程师，写不了生产代码，靠指挥 coding agent 落地，下面这些项目都是这样做出来的。
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
+🐦 [X](https://x.com/imajuana) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
 > 📈 **正在 Arcus 上实盘运行**
 >
