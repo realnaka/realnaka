@@ -6,7 +6,7 @@
 
 现在我在用 AI 把自己的交易想法做成真正能跑的工具。我不是科班工程师，写不了生产代码，靠指挥 coding agent 落地，下面这些项目都是这样做出来的。
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
 > 📈 **正在 Arcus 上实盘运行**
 >
@@ -66,27 +66,9 @@
 
 🛰️ [**hk-ipo-radar**](https://github.com/realnaka/hk-ipo-radar) - 港股 IPO 自动扫描 + 8 维 AI 深度分析，推送到飞书群并附云文档链接
 
-🛡️ [**edgex-risk-monitor**](https://github.com/realnaka/edgex-risk-monitor) - EdgeX 永续合约行情监控，异常经飞书 webhook 告警
-
-🐋 [**edgex-flow-monitor**](https://github.com/realnaka/edgex-flow-monitor) - 链上资金流监控：L2 鲸鱼成交与 L1 提现
-
-💧 [**edge-lp-monitor**](https://github.com/realnaka/edge-lp-monitor) - Uniswap V3（Arbitrum）与 PancakeSwap V4（BSC）的 LP 仓位监控，每 8 小时告警
-
-📊 [**liquidity-depth-comparison**](https://github.com/realnaka/liquidity-depth-comparison) - 跨交易所合约深度对标看板：10+ 交易所实时盘口深度，快照同步到飞书多维表格
-
 📝 [**captain-trading-booking**](https://github.com/realnaka/captain-trading-booking) - 把交易截图或粘贴文字变成飞书多维表格 / Excel 里的结构化记录
 
 🎯 [**okr-agent-skill**](https://github.com/realnaka/okr-agent-skill) - 把季度目标拆成 agent 能直接执行的任务
-
----
-
-## 🛠️ 交易所工具链
-
-在 EdgeX 期间做的工具，现在以开源方式维护。
-
-🖥️ [**edgex-cli**](https://github.com/realnaka/edgex-cli) - EdgeX 永续与美股合约的 CLI，为 agent 消费而设计
-
-🔌 [**edgex-mcp**](https://github.com/realnaka/edgex-mcp) - EdgeX 合约交易的 MCP Server：行情、账户、下单都变成 agent 工具
 
 ---
 

@@ -6,7 +6,7 @@ Equity derivatives trader turned crypto product manager. I've spent my career pr
 
 These days I use AI to turn my own trading ideas into tools that actually run. I don't write production code — I direct coding agents, and everything below was built that way.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/64995a930000000011002c99) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mengchuan-yang-43068768/) · 🐦 [X](https://x.com/imajuana) · ✉️ [ymcharvey@gmail.com](mailto:ymcharvey@gmail.com)
 
 > 📈 **Running live on Arcus**
 >
@@ -66,27 +66,9 @@ Everything that wakes up on a schedule and tells me something.
 
 🛰️ [**hk-ipo-radar**](https://github.com/realnaka/hk-ipo-radar) - Auto-scans Hong Kong IPOs, runs an 8-dimension AI deep dive, and pushes the result to a Lark group with a cloud-doc link
 
-🛡️ [**edgex-risk-monitor**](https://github.com/realnaka/edgex-risk-monitor) - Perpetual-contract market monitor with Lark webhook alerts
-
-🐋 [**edgex-flow-monitor**](https://github.com/realnaka/edgex-flow-monitor) - On-chain flow monitor for L2 whale trades and L1 withdrawals
-
-💧 [**edge-lp-monitor**](https://github.com/realnaka/edge-lp-monitor) - LP position monitor for Uniswap V3 (Arbitrum) and PancakeSwap V4 (BSC), alerting every 8 hours
-
-📊 [**liquidity-depth-comparison**](https://github.com/realnaka/liquidity-depth-comparison) - Cross-exchange perp liquidity-depth dashboard: live order-book depth across 10+ venues, synced to Lark Bitable
-
 📝 [**captain-trading-booking**](https://github.com/realnaka/captain-trading-booking) - Turns trade screenshots or pasted text into structured records in Lark Bitable / Excel
 
 🎯 [**okr-agent-skill**](https://github.com/realnaka/okr-agent-skill) - Turns quarterly objectives into agent-executable tasks
-
----
-
-## 🛠️ Exchange tooling
-
-Built during my time at EdgeX, now maintained in the open.
-
-🖥️ [**edgex-cli**](https://github.com/realnaka/edgex-cli) - CLI for EdgeX perpetual and equity contract trading, built to be consumed by agents
-
-🔌 [**edgex-mcp**](https://github.com/realnaka/edgex-mcp) - MCP server for EdgeX perpetual contract trading: market data, account management and order execution as agent tools
 
 ---
 
